@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=180&section=header&text=Raghav%20Dubey&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Medicaps%20University%2C%20Indore&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+Developer+%E2%98%95;Web+Dev+%7C+React+%7C+Spring+Boot;DSA+Problem+Solver+%F0%9F%A7%A0;Always+Learning+%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+Developer+%E2%98%95;React+%7C+Spring+Boot+%7C+DSA;Always+Learning+%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@
 - ☕ **Java Developer** who loves building clean, scalable backend systems
 - 🌐 Full Stack developer — from **HTML/CSS** to **React** to **Spring Boot**
 - 🧠 Sharpening **DSA** skills daily on LeetCode
-- 🛠️ Building real-world projects that solve real problems
+- 🛠️ I love building real-world projects that solve real problems
 - 🎯 Goal: Land a great **internship/job** & contribute to **open source**
 - ⚡ Fun fact: I debug with `System.out.println` and I'm not ashamed!
 
@@ -50,25 +50,36 @@
 
 ## 🚀 Featured Projects
 
-### ⚖️ Judgelatic — Consumer Case Predictor
-> A smart tool that predicts outcomes of consumer cases using logic and data analysis.
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Active-22C55E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Language-Java-FF6B35?style=flat-square&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/Type-Web_App-61DAFB?style=flat-square"/>
-</p>
-
-- 📌 Helps users understand likely outcomes before filing consumer complaints
-- 🔗 [View Repository](https://github.com/raghavdubey1010/judgelatic)
+<table align="center">
+  <tr>
+    <td width="100%" align="center">
+      <h3>⚖️ Judgelatic — Consumer Case Predictor</h3>
+      <p><em>A smart tool that predicts outcomes of consumer cases using logic and data analysis. Helps users understand likely outcomes before filing consumer complaints.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-FF6B35?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web_App-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Status-Active-22C55E?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://github.com/raghavdubey1010/judgelatic">
+          <img src="https://img.shields.io/badge/🔗 View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/raghavdubey1010/judgelatic">
+          <img src="https://img.shields.io/badge/🌐 Live_Demo-F97316?style=for-the-badge&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavdubey1010&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavdubey1010&layout=compact&theme=radical&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raghavdubey1010&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavdubey1010&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html" width="40%"/>
 </p>
 
 <p align="center">
