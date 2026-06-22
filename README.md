@@ -81,11 +81,11 @@
       </p>
     </td>
     <td width="30%" valign="middle" align="center">
-      <a href="https://github.com/raghavdubey1010/legal-prediction-system">
+      <a href="https://github.com/raghavdubey1010/judgelytics">
         <img src="https://img.shields.io/badge/🔗 View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/><br/>
-      <a href="https://github.com/raghavdubey1010/legal-prediction-system">
+      <a href="https://github.com/raghavdubey1010/judgelytics">
         <img src="https://img.shields.io/badge/🌐 Live_Demo-F97316?style=for-the-badge&logoColor=white"/>
       </a>
     </td>
