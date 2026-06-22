@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=180&section=header&text=Raghav%20Dubey&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Medicaps%20University%2C%20Indore&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raghav%20Dubey&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=B.Tech%20CSE%20%7C%20Medicaps%20University%2C%20Indore&descAlignY=62&descSize=18&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+Developer+%E2%98%95;MERN+Stack+%7C+Python+%7C+FastAPI;DSA+Problem+Solver+%F0%9F%A7%A0;Always+Learning+%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+Developer+%E2%98%95;MERN+Stack+%7C+Python+%7C+FastAPI;DSA+Problem+Solver+%F0%9F%A7%A0;Always+Learning+%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
   <a href="https://github.com/raghavdubey1010">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=raghavdubey1010&style=for-the-badge&color=F97316&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=raghavdubey1010&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -37,12 +37,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-FF6B35?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -97,10 +97,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:raghavdubey2027@gmail.com">
-    <img src="https://img.shields.io/badge/Email-raghavdubey2027%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+📧 &nbsp; **raghavdubey2027@gmail.com**
+
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/raghavdubey13">
     <img src="https://img.shields.io/badge/LinkedIn-Raghav_Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -114,6 +115,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fcb045,50:fd1d1d,100:833ab4&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=twinkling"/>
 
 <p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
