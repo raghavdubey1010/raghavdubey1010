@@ -109,7 +109,11 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">📧 &nbsp; raghavdubey2027@gmail.com</p>
+<p align="center">
+  <a href="mailto:raghavdubey2027@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-raghavdubey2027%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raghavdubey13">
